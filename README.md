@@ -1,4 +1,7 @@
-# EnglishStudy
+## EnglishStudy
+
+리스닝은 함시윤
+
 study with AI
 
 
